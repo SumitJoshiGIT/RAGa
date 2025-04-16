@@ -1,6 +1,6 @@
 ## Introduction 
 
-This is RAGa, a library to facilitate RAG setups. The motivation for this project lies in a hackathon I am participating in on campus, Graphethon.
+This is RAGa, a app to facilitate quick RAG setups. The motivation for this project lies in a hackathon I am participating in on campus, Graphethon.
 It is designed to work well with Raspberry Pi-based robots and other applications.
 
 ## Present State
