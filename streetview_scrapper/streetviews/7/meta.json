@@ -1,0 +1,33 @@
+{
+    "id": 7,
+    "start": {
+        "lat": 30.26845503462733,
+        "long": 77.99332413521326
+    },
+    "end": {
+        "lat": 30.26903185437641,
+        "long": 77.99262407870883
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "{xvwDia`{MGHgAzAa@f@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northwest\nPass by Pet Care (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 93,
+        "duration": "19s",
+        "polyline": {
+            "encodedPolyline": "{xvwDia`{MGHgAzAa@f@"
+        }
+    }
+}

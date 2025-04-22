@@ -1,0 +1,33 @@
+{
+    "id": 25,
+    "start": {
+        "lat": 30.268376271815413,
+        "long": 77.99509171094482
+    },
+    "end": {
+        "lat": 30.268691322632275,
+        "long": 77.9947510704235
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "ixvwDgl`{MA@MNYZST"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northwest on Graphic Era University Rd toward Bell Rd"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 48,
+        "duration": "10s",
+        "polyline": {
+            "encodedPolyline": "ixvwDgl`{MA@MNYZST"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 8,
+    "start": {
+        "lat": 30.26846893392095,
+        "long": 77.99335095735388
+    },
+    "end": {
+        "lat": 30.268142299594313,
+        "long": 77.99377206414007
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "_yvwDqa`{M@G?C@ABE@C?G?E?GACAECE"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head east"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "}xvwDoc`{M\\c@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "TURN_RIGHT",
+                            "instructions": "Turn right at Brothers Enterprise toward Bell Rd"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "_xvwDsd`{MTPDD@@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "TURN_RIGHT",
+                            "instructions": "Turn right at Axis Bank Branch onto Bell Rd\nDestination will be on the left"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 76,
+        "duration": "25s",
+        "polyline": {
+            "encodedPolyline": "_yvwDqa`{M@G?C@ABE@C?G?E?GACAECE\\c@TPDD@@"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 26,
+    "start": {
+        "lat": 30.268371638707617,
+        "long": 77.99509707536248
+    },
+    "end": {
+        "lat": 30.268357739382928,
+        "long": 77.99593660672603
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "exvwDkl`{MOKCCCAAAC?K?G?G?E?CAAACECC?AACAC?ODIDGdAwA"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast toward Way to Girls Hostel"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 130,
+        "duration": "24s",
+        "polyline": {
+            "encodedPolyline": "exvwDkl`{MOKCCCAAAC?K?G?G?E?CAAACECC?AACAC?ODIDGdAwA"
+        }
+    }
+}

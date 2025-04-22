@@ -1,0 +1,33 @@
+{
+    "id": 29,
+    "start": {
+        "lat": 30.267345399944052,
+        "long": 77.9965615614608
+    },
+    "end": {
+        "lat": 30.267811031051117,
+        "long": 77.99677882037597
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "}qvwDou`{M{@q@_@D"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast\nPass by Chanakya Block (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 60,
+        "duration": "10s",
+        "polyline": {
+            "encodedPolyline": "}qvwDou`{M{@q@_@D"
+        }
+    }
+}

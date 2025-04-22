@@ -1,0 +1,370 @@
+[
+  {
+    "id": "0",
+    "name": "geu perimeter",
+    "category": "Boundary",
+    "type": "perimeter",
+    "faculty": null,
+    "unique local features": "Defines the overall campus boundaries."
+  },
+  {
+    "id": "1",
+    "name": "pitch",
+    "category": "Sports Facility",
+    "type": "area",
+    "faculty": "Department of Sports",
+    "unique local features": "Central outdoor sports ground."
+  },
+  {
+    "id": "2",
+    "name": "president estate perimeter",
+    "category": "Residential/Administrative",
+    "type": "perimeter",
+    "faculty": "President's Office",
+    "unique local features": "Boundary of the President's residential or administrative area."
+  },
+  {
+    "id": "3",
+    "name": "main block perimeter",
+    "category": "Academic/Administrative",
+    "type": "perimeter",
+    "faculty": "Various departments housed within the Main Block",
+    "unique local features": "Boundary of the central administrative and academic building."
+  },
+  {
+    "id": "4",
+    "name": "perimeter of cafe n court",
+    "category": "Recreational/Food",
+    "type": "perimeter",
+    "faculty": null,
+    "unique local features": "Boundary of a popular social and food spot."
+  },
+  {
+    "id": "5",
+    "name": "GEU entry/exit 2",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": "Security Department",
+    "unique local features": "One of the main access points to the university."
+  },
+  {
+    "id": "6",
+    "name": "tunnel between csit and campus under",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Underground passage connecting different parts of the campus."
+  },
+  {
+    "id": "7",
+    "name": "tunnel entrance",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Access point to the underground tunnel."
+  },
+  {
+    "id": "8",
+    "name": "tunnel exit",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Exit point from the underground tunnel."
+  },
+  {
+    "id": "9",
+    "name": "perimeter",
+    "category": "General Boundary",
+    "type": "perimeter",
+    "faculty": null,
+    "unique local features": "Boundary of an unspecified area."
+  },
+  {
+    "id": "10",
+    "name": "param block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Likely various engineering or technology departments.",
+    "unique local features": "Specific academic building on campus."
+  },
+  {
+    "id": "13",
+    "name": "pine trees ate entrance",
+    "category": "Landmark/Nature",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Distinctive natural feature at an entrance."
+  },
+  {
+    "id": "15",
+    "name": "front lawn  btech block",
+    "category": "Open Space",
+    "type": "area",
+    "faculty": "Various B.Tech departments",
+    "unique local features": "Green space in front of the B.Tech block."
+  },
+  {
+    "id": "16",
+    "name": "hostel perimeter",
+    "category": "Residential",
+    "type": "perimeter",
+    "faculty": "Dean of Students Welfare, Hostel Wardens",
+    "unique local features": "Boundary of the student residential area."
+  },
+  {
+    "id": "17",
+    "name": "geu parking 2",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": "Security Department",
+    "unique local features": "Secondary parking area on campus."
+  },
+  {
+    "id": "18",
+    "name": "btech block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Various B.Tech departments (CSE, ECE, ME, Civil, etc.)",
+    "unique local features": "Building housing Bachelor of Technology programs."
+  },
+  {
+    "id": "19",
+    "name": "indoor badminton court",
+    "category": "Sports Facility",
+    "type": "area",
+    "faculty": "Department of Sports",
+    "unique local features": "Indoor sports facility for badminton."
+  },
+  {
+    "id": "20",
+    "name": "library",
+    "category": "Academic Resource",
+    "type": "area",
+    "faculty": "Library Staff",
+    "unique local features": "Central knowledge resource of the university."
+  },
+  {
+    "id": "23",
+    "name": "dispensary",
+    "category": "Health Facility",
+    "type": "area",
+    "faculty": "Medical Staff",
+    "unique local features": "On-campus medical support facility."
+  },
+  {
+    "id": "27",
+    "name": "graphic era school",
+    "category": "Educational Institution (Separate)",
+    "type": "area",
+    "faculty": "School Administration and Teachers",
+    "unique local features": "Separate schooling institution within the Graphic Era ecosystem."
+  },
+  {
+    "id": "28",
+    "name": "chanakya mba block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Department of Management Studies",
+    "unique local features": "Building dedicated to Master of Business Administration programs."
+  },
+  {
+    "id": "29",
+    "name": "vishwakarma block automobile and mechanical",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Departments of Automobile Engineering and Mechanical Engineering",
+    "unique local features": "Building housing Automobile and Mechanical Engineering departments."
+  },
+  {
+    "id": "30",
+    "name": "KP Nautiyal hotel mgmt Block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Department of Hotel Management",
+    "unique local features": "Building dedicated to Hotel Management programs, likely with practical labs."
+  },
+  {
+    "id": "31",
+    "name": "priyadarshini hostel",
+    "category": "Residential (Girls)",
+    "type": "area",
+    "faculty": "Dean of Students Welfare, Hostel Wardens",
+    "unique local features": "Girls' hostel on campus."
+  },
+  {
+    "id": "33",
+    "name": "park area 1",
+    "category": "Recreational/Green Space",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Designated park area on campus."
+  },
+  {
+    "id": "34",
+    "name": "cafe and gym",
+    "category": "Recreational/Fitness/Food",
+    "type": "area",
+    "faculty": "Gym Staff, Cafe Management",
+    "unique local features": "Combined facility for refreshments and physical activity."
+  },
+  {
+    "id": "35",
+    "name": "cz azad hostel",
+    "category": "Residential (Boys)",
+    "type": "area",
+    "faculty": "Dean of Students Welfare, Hostel Wardens",
+    "unique local features": "Boys' hostel on campus."
+  },
+  {
+    "id": "36",
+    "name": "hostel mess",
+    "category": "Dining Facility",
+    "type": "area",
+    "faculty": "Mess Management",
+    "unique local features": "Central dining area for hostel residents."
+  },
+  {
+    "id": "37",
+    "name": "Lakshmi Bai Hostel",
+    "category": "Residential (Girls)",
+    "type": "area",
+    "faculty": "Dean of Students Welfare, Hostel Wardens",
+    "unique local features": "Girls' hostel on campus."
+  },
+  {
+    "id": "38",
+    "name": "aryabhatta comp centre",
+    "category": "Academic Resource/Lab",
+    "type": "area",
+    "faculty": "Computer Science/IT Departments",
+    "unique local features": "Computer center named after Aryabhatta."
+  },
+  {
+    "id": "39",
+    "name": "bus parking",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": "Transportation Department",
+    "unique local features": "Designated parking area for university buses."
+  },
+  {
+    "id": "40",
+    "name": "civil engg. block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Department of Civil Engineering",
+    "unique local features": "Building housing the Civil Engineering department."
+  },
+  {
+    "id": "41",
+    "name": "geu washroom",
+    "category": "Utility",
+    "type": "area",
+    "faculty": "Maintenance Department",
+    "unique local features": "Public restroom facility on campus."
+  },
+  {
+    "id": "42",
+    "name": "basketball court",
+    "category": "Sports Facility",
+    "type": "area",
+    "faculty": "Department of Sports",
+    "unique local features": "Outdoor basketball playing area."
+  },
+  {
+    "id": "43",
+    "name": "petroleum block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Department of Petroleum Engineering",
+    "unique local features": "Building housing the Petroleum Engineering department."
+  },
+  {
+    "id": "46",
+    "name": "moto block",
+    "category": "Academic/Workshop",
+    "type": "area",
+    "faculty": "Likely related to Automobile or Mechanical Engineering with a focus on vehicles.",
+    "unique local features": "Specialized area for automotive-related activities."
+  },
+  {
+    "id": "47",
+    "name": "president estate",
+    "category": "Residential/Administrative",
+    "type": "area",
+    "faculty": "President's Office",
+    "unique local features": "Residence and/or office of the University President."
+  },
+  {
+    "id": "49",
+    "name": "entry/exit",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": "Security Department",
+    "unique local features": "General access point to the university (could be the main one)."
+  },
+  {
+    "id": "54",
+    "name": "dept. of electrical",
+    "category": "Academic Department",
+    "type": "area",
+    "faculty": "Department of Electrical Engineering",
+    "unique local features": "Area housing the Electrical Engineering department."
+  },
+  {
+    "id": "55",
+    "name": "dept. of electronic engg.",
+    "category": "Academic Department",
+    "type": "area",
+    "faculty": "Department of Electronics and Communication Engineering",
+    "unique local features": "Area housing the Electronics and Communication Engineering department."
+  },
+  {
+    "id": "56",
+    "name": "biotech block",
+    "category": "Academic Block",
+    "type": "area",
+    "faculty": "Department of Biotechnology",
+    "unique local features": "Building housing the Biotechnology department."
+  },
+  {
+    "id": "57",
+    "name": "old mca block",
+    "category": "Academic Block (Former)",
+    "type": "area",
+    "faculty": "Potentially other departments now.",
+    "unique local features": "Older academic building, historically associated with the MCA program."
+  },
+  {
+    "id": "58",
+    "name": "hocusfocus coffe cart",
+    "category": "Food/Beverage",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Mobile coffee vendor on campus."
+  },
+  {
+    "id": "59",
+    "name": "entrance btech block",
+    "category": "Infrastructure",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "Main entry point to the B.Tech block."
+  },
+  {
+    "id": "60",
+    "name": "graphic era medical college",
+    "category": "Educational Institution (Separate)",
+    "type": "area",
+    "faculty": "Medical College Administration and Faculty",
+    "unique local features": "Separate medical college within the Graphic Era ecosystem."
+  },
+  {
+    "id": "62",
+    "name": "lawn front",
+    "category": "Open Space",
+    "type": "area",
+    "faculty": null,
+    "unique local features": "General lawn area on campus."
+  }
+]

@@ -1,0 +1,33 @@
+{
+    "id": 27,
+    "start": {
+        "lat": 30.268357739382928,
+        "long": 77.99594733556135
+    },
+    "end": {
+        "lat": 30.26794307529142,
+        "long": 77.99595538218784
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "gxvwDsq`{M@?B?@AHCFABAD?FAL@F@D@F@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head south on Way to Girls Hostel\nPass by Automobile and Mechanical Block (on the left)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 45,
+        "duration": "13s",
+        "polyline": {
+            "encodedPolyline": "gxvwDsq`{M@?B?@AHCFABAD?FAL@F@D@F@"
+        }
+    }
+}

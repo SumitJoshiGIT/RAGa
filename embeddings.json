@@ -1,0 +1,2270 @@
+[
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "90"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "0"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "120"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "150"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "180"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "210"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "240"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "270"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "30"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "300"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "330"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "60"
+    },
+    {
+        "zone_id": "1",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "90"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "0"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "120"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "150"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "180"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "210"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "240"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "270"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "30"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "300"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "330"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "60"
+    },
+    {
+        "zone_id": "2",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "1",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "10",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "11",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "2",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "3",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "4",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "5",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "6",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "7",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "8",
+        "angle": "90"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "0"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "120"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "150"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "180"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "210"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "240"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "270"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "30"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "300"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "330"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "60"
+    },
+    {
+        "zone_id": "3",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "9",
+        "angle": "90"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "0"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "120"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "150"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "180"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "210"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "240"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "270"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "30"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "300"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "330"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "60"
+    },
+    {
+        "zone_id": "4",
+        "features": [],
+        "embedding": null,
+        "waypoint_id": "0",
+        "angle": "90"
+    }
+]

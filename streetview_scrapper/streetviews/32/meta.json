@@ -1,0 +1,33 @@
+{
+    "id": 32,
+    "start": {
+        "lat": 30.26882960153141,
+        "long": 77.99646019933238
+    },
+    "end": {
+        "lat": 30.2693832537816,
+        "long": 77.99722462884873
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "c{vwD}t`{MQSq@cAm@_A"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast on Way to Girls Hostel toward Post Office Rd"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 96,
+        "duration": "17s",
+        "polyline": {
+            "encodedPolyline": "c{vwD}t`{MQSq@cAm@_A"
+        }
+    }
+}

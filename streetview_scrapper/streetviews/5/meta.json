@@ -1,0 +1,33 @@
+{
+    "id": 5,
+    "start": {
+        "lat": 30.268485149798494,
+        "long": 77.9936942800317
+    },
+    "end": {
+        "lat": 30.268524531162218,
+        "long": 77.99326512661902
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "}xvwDoc`{MBD@D@B?F?D?FABCDA@?BAFCPCB"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head west"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 44,
+        "duration": "9s",
+        "polyline": {
+            "encodedPolyline": "}xvwDoc`{MBD@D@B?F?D?FABCDA@?BAFCPCB"
+        }
+    }
+}

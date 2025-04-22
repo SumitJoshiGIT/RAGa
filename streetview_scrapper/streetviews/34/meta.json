@@ -1,0 +1,33 @@
+{
+    "id": 34,
+    "start": {
+        "lat": 30.26781031723951,
+        "long": 77.99678474663212
+    },
+    "end": {
+        "lat": 30.26870682465078,
+        "long": 77.99785763016384
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "ytvwD{v`{MACACg@m@QUKMW[SW]c@_@e@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast\nPass by Hocusfocus coffee Cart (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 144,
+        "duration": "28s",
+        "polyline": {
+            "encodedPolyline": "ytvwD{v`{MACACg@m@QUKMW[SW]c@_@e@"
+        }
+    }
+}

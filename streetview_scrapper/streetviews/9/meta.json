@@ -1,0 +1,42 @@
+{
+    "id": 9,
+    "start": {
+        "lat": 30.268146932712924,
+        "long": 77.99376669972241
+    },
+    "end": {
+        "lat": 30.267523776296304,
+        "long": 77.99444529855622
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "awvwDyc`{MFFdAp@XP"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head southwest on Bell Rd toward Bell Road\nPass by Friend's Restaurant (on the right)"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "ysvwDma`{M\\u@Xm@Tg@N["
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "TURN_LEFT",
+                            "instructions": "Turn left at ABRS STAY (PG for boy's students)\nDestination will be on the left"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 166,
+        "duration": "34s",
+        "polyline": {
+            "encodedPolyline": "awvwDyc`{MFFdAp@XP\\u@Xm@Tg@N["
+        }
+    }
+}

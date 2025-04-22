@@ -1,0 +1,33 @@
+{
+    "id": 33,
+    "start": {
+        "lat": 30.269160866642107,
+        "long": 77.99692958587751
+    },
+    "end": {
+        "lat": 30.268957011321653,
+        "long": 77.9971307515397
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "g}vwDuw`{Mh@k@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head southeast"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 31,
+        "duration": "5s",
+        "polyline": {
+            "encodedPolyline": "g}vwDuw`{Mh@k@"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 14,
+    "start": {
+        "lat": 30.267514510000055,
+        "long": 77.99493077835432
+    },
+    "end": {
+        "lat": 30.267639604925805,
+        "long": 77.9952231391167
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "}rvwDik`{MWw@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast on Way to Canteen"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 30,
+        "duration": "5s",
+        "polyline": {
+            "encodedPolyline": "}rvwDik`{MWw@"
+        }
+    }
+}

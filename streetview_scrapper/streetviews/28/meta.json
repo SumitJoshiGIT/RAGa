@@ -1,0 +1,33 @@
+{
+    "id": 28,
+    "start": {
+        "lat": 30.26772995116638,
+        "long": 77.99607876387152
+    },
+    "end": {
+        "lat": 30.26780176478196,
+        "long": 77.99678954921129
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "gtvwDor`{MIMIQEO?I?KDk@BQ?CAC"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast\nPass by Quick Bite Cafe (on the left)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 72,
+        "duration": "10s",
+        "polyline": {
+            "encodedPolyline": "gtvwDor`{MIMIQEO?I?KDk@BQ?CAC"
+        }
+    }
+}

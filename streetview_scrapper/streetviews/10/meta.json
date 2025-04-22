@@ -1,0 +1,42 @@
+{
+    "id": 10,
+    "start": {
+        "lat": 30.26751914314828,
+        "long": 77.99445870960037
+    },
+    "end": {
+        "lat": 30.267901377125057,
+        "long": 77.99502733787217
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "}rvwDik`{MWw@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northeast on Way to Canteen"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "usvwDam`{Ma@TMHEB"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "TURN_LEFT",
+                            "instructions": "Turn left at GEU Main Block"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 65,
+        "duration": "17s",
+        "polyline": {
+            "encodedPolyline": "}rvwDik`{MWw@a@TMHEB"
+        }
+    }
+}

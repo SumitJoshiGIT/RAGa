@@ -1,0 +1,33 @@
+{
+    "id": 1,
+    "start": {
+        "lat": 30.269363118804634,
+        "long": 77.99299690573609
+    },
+    "end": {
+        "lat": 30.268876646182818,
+        "long": 77.99353334750195
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "o~vwDi_`{M@??A@ABELOx@aALK@A"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head southeast\nPass by Webixun infoways (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 74,
+        "duration": "14s",
+        "polyline": {
+            "encodedPolyline": "o~vwDi_`{M@??A@ABELOx@aALK@A"
+        }
+    }
+}

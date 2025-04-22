@@ -1,0 +1,42 @@
+{
+    "id": 18,
+    "start": {
+        "lat": 30.26722493779715,
+        "long": 77.99600097973777
+    },
+    "end": {
+        "lat": 30.267109108678426,
+        "long": 77.9956657036341
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "eqvwD}q`{M@?@@DBBDBB@BBD@D@F@@?B?F?H"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head southwest on Way to Basket Ball Ground"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "gpvwD}o`{ME?"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "TURN_RIGHT",
+                            "instructions": "Turn right at Santosh Anand Library"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 41,
+        "duration": "12s",
+        "polyline": {
+            "encodedPolyline": "eqvwD}q`{M@?@@DBBDBB@BBD@D@F@@?B?F?HE?"
+        }
+    }
+}

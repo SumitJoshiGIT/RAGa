@@ -1,0 +1,33 @@
+{
+    "id": 20,
+    "start": {
+        "lat": 30.267106792094683,
+        "long": 77.99565229258995
+    },
+    "end": {
+        "lat": 30.267509876847626,
+        "long": 77.99566838584295
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "kpvwD}o`{MA?C?E@MFGBC@C?A?C?C?CAGECCEAGA"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head north\nPass by Digital Lab (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 49,
+        "duration": "9s",
+        "polyline": {
+            "encodedPolyline": "kpvwD}o`{MA?C?E@MFGBC@C?A?C?C?CAGECCEAGA"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 16,
+    "start": {
+        "lat": 30.267282852309233,
+        "long": 77.99486104092475
+    },
+    "end": {
+        "lat": 30.26687745003502,
+        "long": 77.99518290598427
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "oqvwD{j`{MBAHEJIPMPIJG@ABC?A@C?A"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head southeast toward Way to Basket Ball Ground"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 57,
+        "duration": "10s",
+        "polyline": {
+            "encodedPolyline": "oqvwD{j`{MBAHEJIPMPIJG@ABC?A@C?A"
+        }
+    }
+}

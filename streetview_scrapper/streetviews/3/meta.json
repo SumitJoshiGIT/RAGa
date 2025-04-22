@@ -1,0 +1,33 @@
+{
+    "id": 3,
+    "start": {
+        "lat": 30.26887201309866,
+        "long": 77.99354407633727
+    },
+    "end": {
+        "lat": 30.268489782900918,
+        "long": 77.9936942800317
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "k{vwDub`{MBAJCDCDAHKDCDCD?D?B?B@B@"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head south\nPass by Best Engineering College in Dehradun | Graphic Era University (on the right)"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 46,
+        "duration": "8s",
+        "polyline": {
+            "encodedPolyline": "k{vwDub`{MBAJCDCDAHKDCDCD?D?B?B@B@"
+        }
+    }
+}

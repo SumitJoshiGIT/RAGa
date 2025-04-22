@@ -1,0 +1,42 @@
+{
+    "id": 22,
+    "start": {
+        "lat": 30.267639604921833,
+        "long": 77.99520972813313
+    },
+    "end": {
+        "lat": 30.268373955253214,
+        "long": 77.99509439315347
+    },
+    "route": {
+        "legs": [
+            {
+                "steps": [
+                    {
+                        "polyline": {
+                            "encodedPolyline": "usvwDam`{Ma@TMHEB"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "DEPART",
+                            "instructions": "Head northwest toward Way Mess and Boys andGirls Hostel/Way to Mess,Hostel,Canteen"
+                        }
+                    },
+                    {
+                        "polyline": {
+                            "encodedPolyline": "kuvwD}k`{MC?A?A?A?AAA?YMEAE?E?E?G@IBGA"
+                        },
+                        "navigationInstruction": {
+                            "maneuver": "NAME_CHANGE",
+                            "instructions": "Continue onto Graphic Era University Rd"
+                        }
+                    }
+                ]
+            }
+        ],
+        "distanceMeters": 87,
+        "duration": "14s",
+        "polyline": {
+            "encodedPolyline": "usvwDam`{Ma@TMHEBC?A?A?A?AAA?YMEAE?E?E?G@IBGA"
+        }
+    }
+}
